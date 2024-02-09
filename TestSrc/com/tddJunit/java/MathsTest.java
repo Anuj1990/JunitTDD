@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class MathsTest {
+	private String lauda;
 
 	private Maths classundertest;	
 
@@ -32,5 +33,7 @@ public class MathsTest {
 	assertEquals(result, classundertest.subtract(10,2));
 
 	}
+
+	hello blah blah blahhh
 
 }
